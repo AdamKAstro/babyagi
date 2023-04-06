@@ -2,6 +2,9 @@
 
 
 # Objective
+Write .py code that Generates creatures made of ASCII, Unicode, Text and Symbols. Prompt the user for their favourite creatures, breed them via a genetic algorithm
+FIRST_TASK=Write a single .py code that does all of this :  Read in values from user_evaluation.txt in C:\Temp, Review this FIRST_TASK list below and modify if needed, (make file if not existing),Make a list of all .py modules that would be needed, all classes, attributes (string, int etc) AND write this to a modules_classes.txt in C:\Temp, Read modules_classes.txt in C:\Temp and ALWAYS use for the remaining module generation. Define body features for creatures using ASCII, text, and numbers. Generate creatures by randomly selecting and combining body features as well as blending in user defined favourites. Maintain a record of all creatures created and their scores. Evaluate creatures based on symmetry and aesthetics using a mix of human and AI selection. Breed best creatures to create new generations. Write main.py code that pulls together all modules. Display creatures using Tkinter or Pygame for user interaction and user evaluation, recording values from user_evaluation.txt in C:\Temp
+
 This Python script is an example of an AI-powered task management system. The system uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks. The main idea behind this system is that it creates tasks based on the result of previous tasks and a predefined objective. The script then uses OpenAI's natural language processing (NLP) capabilities to create new tasks based on the objective, and Pinecone to store and retrieve task results for context. This is a paired-down version of the original [Task-Driven Autonomous Agent](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20) (Mar 28, 2023).
 
 This README will cover the following:
